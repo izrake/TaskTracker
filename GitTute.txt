@@ -1,2 +1,4 @@
 Added this for git tute
 git add staged
+git cwd 
+git unstaged change
